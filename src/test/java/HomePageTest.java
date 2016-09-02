@@ -30,7 +30,7 @@ public class HomePageTest extends BaseTest{
 //		PLP plp = homePage.search("iPhone");
 //	}
 
-	@Test(enabled=false)
+	@Test(enabled=true)
 	public void addToCartFromProductPage(){
 		//Assuming tax is $12
 		double tax = 12;
